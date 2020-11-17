@@ -1,0 +1,4 @@
+Script started on Tue 17 Nov 2020 05:12:35 PM EST
+[zach@CentOS246 cis246lab2]$ exit
+
+Script done on Tue 17 Nov 2020 05:21:09 PM EST
